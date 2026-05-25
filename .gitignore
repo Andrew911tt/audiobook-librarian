@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Runtime database
+*.db
+*.db-shm
+*.db-wal
+
+# Diagnostic / scratch outputs
+*.log
+audible_diagnostic.txt
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,7 @@
+mutagen
+ebooklib
+Pillow
+PyMuPDF
+requests
+google-genai
+groq
