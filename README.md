@@ -1,3 +1,5 @@
+run the main.py
+
 # Audiobook Librarian — User Guide
 
 A desktop app that scans a messy audiobook collection, identifies what each
